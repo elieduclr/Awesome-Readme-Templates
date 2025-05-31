@@ -49,7 +49,6 @@ Awesome-Readme-Templates/
 │       ├── 📂 cybersecurity/     # Cybersécurité
 │       ├── 📂 devops/            # DevOps & SRE
 │       └── 📂 mobile-dev/        # Développement mobile
-│       └── 📂 dev/               # Développement
 ├── 📂 assets/
 │   ├── 📂 badges/                # Collection de badges
 │   ├── 📂 animations/            # GIFs et animations
@@ -82,7 +81,6 @@ Parcourez les catégories et sélectionnez le template qui correspond à votre p
 Chaque template contient :
 - ✅ **README-template.md** - Template à personnaliser
 - ✅ **README-example.md** - Exemple complet
-- ✅ **preview.png** - Aperçu visuel
 - ✅ **customization.md** - Guide de personnalisation
 
 ### 3. Copiez et utilisez
@@ -131,7 +129,6 @@ cp README-template.md ~/votre-profil/README.md
 | [Cybersecurity](templates/specialized/cybersecurity/) | ⭐⭐⭐ | Sécurité, certifications |
 | [DevOps](templates/specialized/devops/) | ⭐⭐⭐ | Infrastructure, monitoring |
 | [Mobile Dev](templates/specialized/mobile-dev/) | ⭐⭐ | Apps, stores |
-| [Dev](templates/specialized/dev/dev-template.md) | ⭐⭐ | Web, Apps |
 
 </div>
 
