@@ -47,17 +47,18 @@ Awesome-Readme-Templates/
 │   └── 📂 specialized/           # Spécialisations techniques
 │       ├── 📂 data-scientist/    # Data science
 │       ├── 📂 cybersecurity/     # Cybersécurité
-│       ├── 📂 devops/           # DevOps & SRE
+│       ├── 📂 devops/            # DevOps & SRE
 │       └── 📂 mobile-dev/        # Développement mobile
+│       └── 📂 dev/               # Développement
 ├── 📂 assets/
-│   ├── 📂 badges/               # Collection de badges
-│   ├── 📂 animations/           # GIFs et animations
-│   ├── 📂 icons/               # Icônes et SVG
-│   └── 📂 previews/            # Aperçus des templates
+│   ├── 📂 badges/                # Collection de badges
+│   ├── 📂 animations/            # GIFs et animations
+│   ├── 📂 icons/                 # Icônes et SVG
+│   └── 📂 previews/              # Aperçus des templates
 ├── 📂 tools/
-│   ├── 📄 badge-generator.md    # Générateur de badges
-│   ├── 📄 color-palettes.md    # Palettes de couleurs
-│   └── 📄 mermaid-diagrams.md  # Templates de diagrammes
+│   ├── 📄 badge-generator.md     # Générateur de badges
+│   ├── 📄 color-palettes.md      # Palettes de couleurs
+│   └── 📄 mermaid-diagrams.md    # Templates de diagrammes
 └── 📂 docs/
     ├── 📄 customization-guide.md  # Guide de personnalisation
     ├── 📄 best-practices.md       # Bonnes pratiques
@@ -103,33 +104,34 @@ cp README-template.md ~/votre-profil/README.md
 <div align="center">
 
 ### 🟢 Niveau Débutant
-| Template | Preview | Difficulté | Technologies |
-|:---:|:---:|:---:|:---:|
-| [Simple Clean](templates/beginner/simple-clean/) | ![Preview](#) | ⭐ | Markdown basique |
-| [Student Friendly](templates/beginner/student-friendly/) | ![Preview](#) | ⭐ | Badges, statistiques |
-| [First Timer](templates/beginner/first-timer/) | ![Preview](#) | ⭐ | Minimal |
+| Template | Difficulté | Technologies |
+|:---:|:---:|:---:|
+| [Simple Clean](templates/beginner/simple-clean/) | ⭐ | Markdown basique |
+| [Student Friendly](templates/beginner/student-friendly/) | ⭐ | Badges, statistiques |
+| [First Timer](templates/beginner/first-timer/) | ⭐ | Minimal |
 
 ### 🟡 Niveau Professional
-| Template | Preview | Difficulté | Technologies |
-|:---:|:---:|:---:|:---:|
-| [Corporate](templates/professional/corporate/) | ![Preview](#) | ⭐⭐ | Badges, animations |
-| [Freelancer](templates/professional/freelancer/) | ![Preview](#) | ⭐⭐ | Portfolio, contact |
-| [Consultant](templates/professional/consultant/) | ![Preview](#) | ⭐⭐ | Services, témoignages |
+| Template | Difficulté | Technologies |
+|:---:|:---:|:---:|
+| [Corporate](templates/professional/corporate/) | ⭐⭐ | Badges, animations |
+| [Freelancer](templates/professional/freelancer/) | ⭐⭐ | Portfolio, contact |
+| [Consultant](templates/professional/consultant/) | ⭐⭐ | Services, témoignages |
 
 ### 🎨 Niveau Créatif
-| Template | Preview | Difficulté | Technologies |
-|:---:|:---:|:---:|:---:|
-| [Designer](templates/creative/designer/) | ![Preview](#) | ⭐⭐ | Portfolio visuel |
-| [Game Dev](templates/creative/game-dev/) | ![Preview](#) | ⭐⭐⭐ | Projets, démos |
-| [Artist](templates/creative/artist/) | ![Preview](#) | ⭐⭐ | Galerie, showcase |
+| Template | Difficulté | Technologies |
+|:---:|:---:|:---:|
+| [Designer](templates/creative/designer/) | ⭐⭐ | Portfolio visuel |
+| [Game Dev](templates/creative/game-dev/) | ⭐⭐⭐ | Projets, démos |
+| [Artist](templates/creative/artist/) | ⭐⭐ | Galerie, showcase |
 
 ### 🔧 Niveau Spécialisé
-| Template | Preview | Difficulté | Technologies |
-|:---:|:---:|:---:|:---:|
-| [Data Scientist](templates/specialized/data-scientist/) | ![Preview](#) | ⭐⭐⭐ | Graphiques, datasets |
-| [Cybersecurity](templates/specialized/cybersecurity/) | ![Preview](#) | ⭐⭐⭐ | Sécurité, certifications |
-| [DevOps](templates/specialized/devops/) | ![Preview](#) | ⭐⭐⭐ | Infrastructure, monitoring |
-| [Mobile Dev](templates/specialized/mobile-dev/) | ![Preview](#) | ⭐⭐ | Apps, stores |
+| Template | Difficulté | Technologies |
+|:---:|:---:|:---:|
+| [Data Scientist](templates/specialized/data-scientist/) | ⭐⭐⭐ | Graphiques, datasets |
+| [Cybersecurity](templates/specialized/cybersecurity/) | ⭐⭐⭐ | Sécurité, certifications |
+| [DevOps](templates/specialized/devops/) | ⭐⭐⭐ | Infrastructure, monitoring |
+| [Mobile Dev](templates/specialized/mobile-dev/) | ⭐⭐ | Apps, stores |
+| [Dev](templates/specialized/dev/dev-template.md) | ⭐⭐ | Web, Apps |
 
 </div>
 
