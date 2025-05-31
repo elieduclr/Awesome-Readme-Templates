@@ -15,8 +15,6 @@
 
 [PHRASE_PERSONNELLE - Ajoutez une touche personnelle sur vos hobbies ou intérêts en dehors du code.] 🎮🔐
 
-*[🇬🇧 English version available here](./EN-README.md)*
-
 ---
 
 ## 🛠️ Stack Technique
