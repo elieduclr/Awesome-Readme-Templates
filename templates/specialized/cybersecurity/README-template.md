@@ -100,10 +100,10 @@
 
 ```mermaid
 graph LR
-    A[🔬 [DOMAINE_1]] --> B[🔐 [SPECIALITE_1]]
-    C[🎮 [DOMAINE_2]] --> D[🏗️ [SPECIALITE_2]]
-    E[🤖 [DOMAINE_3]] --> F[🛡️ [SPECIALITE_3]]
-    B --> G[🚀 Innovation]
+    A["🔬 DOMAINE_1"] --> B["🔐 SPECIALITE_1"]
+    C["🎮 DOMAINE_2"] --> D["🏗️ SPECIALITE_2"]
+    E["🤖 DOMAINE_3"] --> F["🛡️ SPECIALITE_3"]
+    B --> G["🚀 Innovation"]
     D --> G
     F --> G
 ```
