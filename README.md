@@ -139,7 +139,7 @@ cp README-template.md ~/votre-profil/README.md
 ### 🎨 Générateurs
 - **[Badge Generator](tools/badge-generator.md)** - Créez des badges personnalisés
 - **[Color Palette](tools/color-palettes.md)** - Palettes harmonieuses
-- **[Animation Builder](tools/mermaid-diagrams.md)** - Diagrammes mermaid
+- **[Mermaid Diagrams](tools/mermaid-diagrams.md)** - Diagrammes mermaid
 
 ### 📚 Guides
 - **[Guide de Personnalisation](docs/customization-guide.md)** - Adaptez les templates
