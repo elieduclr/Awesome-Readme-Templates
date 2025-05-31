@@ -138,13 +138,13 @@ graph TB
     F --> K
     G --> L
     
-    style A fill:#e1f5fe
-    style B fill:#e1f5fe
-    style C fill:#f3e5f5
-    style D fill:#e8f5e8
-    style E fill:#e8f5e8
-    style F fill:#e8f5e8
-    style G fill:#e8f5e8
+    style A fill:#2196f3,stroke:#0d47a1,color:#fff,stroke-width:2px
+    style B fill:#2196f3,stroke:#0d47a1,color:#fff,stroke-width:2px
+    style C fill:#7e57c2,stroke:#4527a0,color:#fff,stroke-width:2px
+    style D fill:#4caf50,stroke:#2e7d32,color:#fff,stroke-width:2px
+    style E fill:#4caf50,stroke:#2e7d32,color:#fff,stroke-width:2px
+    style F fill:#4caf50,stroke:#2e7d32,color:#fff,stroke-width:2px
+    style G fill:#4caf50,stroke:#2e7d32,color:#fff,stroke-width:2px
 ```
 
 #### 🎨 Template - Processus de Développement
@@ -159,10 +159,6 @@ graph LR
     F --> G[📊 Monitoring]
     G --> H[🔄 Feedback]
     H --> A
-    
-    style A fill:#fff2cc
-    style F fill:#d5e8d4
-    style E fill:#ffe6cc
 ```
 
 ### 📈 Graphiques
@@ -179,11 +175,11 @@ graph LR
     B --> G[🚀 Innovation]
     D --> G
     F --> G
-    
-    style G fill:#ff6b6b,color:#fff
-    style A fill:#4ecdc4
-    style C fill:#45b7d1
-    style E fill:#96ceb4
+
+    style G fill:#EA5455,color:#fff
+    style A fill:#1BBC9B,color:#fff
+    style C fill:#3498DB,color:#fff
+    style E fill:#9B59B6,color:#fff
 ```
 
 #### 🌟 Template - Stack Technique
@@ -565,10 +561,10 @@ graph LR
     A --> D[Error]
     A --> E[Info]
     
-    style B fill:#d5e8d4,stroke:#82c366
-    style C fill:#fff2cc,stroke:#d6b656
-    style D fill:#f8cecc,stroke:#b85450
-    style E fill:#dae8fc,stroke:#6c8ebf
+    style B fill:#00ff00,stroke:#006600
+    style C fill:#ffcc00,stroke:#cc9900
+    style D fill:#ff0000,stroke:#800000
+    style E fill:#3399ff,stroke:#003366
 ```
 
 #### Thèmes disponibles
@@ -617,16 +613,19 @@ graph LR
 
 ### 🔒 Cybersécurité
 ```mermaid
+---
+config:
+  theme: neo
+---
 graph TD
     A[🔍 Reconnaissance] --> B[🎯 Scanning]
     B --> C[🚪 Enumeration]
     C --> D[⚡ Exploitation]
     D --> E[🏃 Post-Exploitation]
     E --> F[📊 Reporting]
-    
-    style A fill:#ffebee
-    style D fill:#f3e5f5
-    style F fill:#e8f5e8
+    style A fill:#7aa2f7
+    style D fill:#bb9af7
+    style F fill:#9ece6a
 ```
 
 ### 📊 Data Scientist
