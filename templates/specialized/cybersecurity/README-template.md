@@ -1,19 +1,21 @@
-# 👋 Salut, moi c'est Élie !
+# 👋 Salut, moi c'est [VOTRE_NOM] !
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Développeur%20Full-Stack&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersécurité%20•%20Innovation%20•%20Gaming&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=[VOTRE_TITRE]&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=[VOTRE_SPECIALITE]%20•%20[VOTRE_PASSION]%20•%20[VOTRE_HOBBY]&descAlignY=55&descSize=20)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://elie-dev.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elieducailar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([LIEN_PORTFOLIO])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[VOTRE_EMAIL])
 
 </div>
 
 ## 🚀 À propos de moi
 
-Passionné par l'intersection entre **technologie**, **sécurité** et **créativité**, je suis un développeur full-stack qui transforme des idées complexes en solutions digitales élégantes. Spécialisé dans la création d'applications web haute performance et la sécurisation d'infrastructures, j'accompagne startups et entreprises établies dans leur transformation numérique.
+[DESCRIPTION_PERSONNELLE - Décrivez votre passion, votre approche du développement et de la sécurité. Mentionnez ce qui vous motive et votre vision de la technologie.]
 
-Quand je ne code pas, vous me trouverez en train de créer des univers immersifs dans Minecraft ou d'explorer les dernières vulnérabilités en cybersécurité ! 🎮🔐
+[PHRASE_PERSONNELLE - Ajoutez une touche personnelle sur vos hobbies ou intérêts en dehors du code.] 🎮🔐
+
+*[🇬🇧 English version available here](./EN-README.md)*
 
 ---
 
@@ -25,6 +27,7 @@ Quand je ne code pas, vous me trouverez en train de créer des univers immersifs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<!-- Ajoutez/supprimez les langages selon vos compétences -->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,6 +36,7 @@ Quand je ne code pas, vous me trouverez en train de créer des univers immersifs
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<!-- Personnalisez selon votre stack -->
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -41,6 +45,7 @@ Quand je ne code pas, vous me trouverez en train de créer des univers immersifs
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<!-- Adaptez selon votre expérience cloud -->
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -49,6 +54,7 @@ Quand je ne code pas, vous me trouverez en train de créer des univers immersifs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+<!-- Ajoutez vos outils de sécurité -->
 
 </div>
 
@@ -58,20 +64,22 @@ Quand je ne code pas, vous me trouverez en train de créer des univers immersifs
 
 <div align="center">
 
-| 🎮 **LostHorizon** | 💼 **Portfolio Freelance** | 🔒 **BlackBox** |
+| 🎮 **[PROJET_1]** | 💼 **[PROJET_2]** | 🔒 **[PROJET_3]** |
 |:---:|:---:|:---:|
-| Mod Minecraft RPG fusionnant magie et technologie | Extension services web & cybersécurité | Plateforme de chiffrement quantum-resistant |
-| `Java` `Forge` `JSON` | `React` `Node.js` `Docker` | `React` `Cryptography` `Post-Quantum` |
+| [DESCRIPTION_COURTE_PROJET_1] | [DESCRIPTION_COURTE_PROJET_2] | [DESCRIPTION_COURTE_PROJET_3] |
+| `[TECH_1]` `[TECH_2]` `[TECH_3]` | `[TECH_1]` `[TECH_2]` `[TECH_3]` | `[TECH_1]` `[TECH_2]` `[TECH_3]` |
 
 </div>
 
 ### 🌟 Projets récents
 
-- **🎯 BlackBox** - [Live Demo](https://blackbox-demo.vercel.app/) - Plate-forme de chiffrement de texte avancée avec des capacités de résistance quantique
-    - Prise en charge de plusieurs algorithmes : AES, ChaCha20, algorithme personnalisé, Kyber (post-quantique)
-    - Graduation de la résistance quantique de la cryptographie classique à la cryptographie post-quantique
-    - Mode furtif avec génération sécurisée de jetons (UUID, clés API)
-    - `React` `TypeScript` `Cryptographie` `Post-Quantum`
+- **🎯 [NOM_PROJET]** - [Live Demo]([LIEN_DEMO]) - [DESCRIPTION_DETAILLEE]
+    - [FONCTIONNALITE_1]
+    - [FONCTIONNALITE_2]
+    - [FONCTIONNALITE_3]
+    - `[TECH_1]` `[TECH_2]` `[TECH_3]` `[TECH_4]`
+
+<!-- Répétez pour d'autres projets -->
 
 ---
 
@@ -79,10 +87,10 @@ Quand je ne code pas, vous me trouverez en train de créer des univers immersifs
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elieduclr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elieduclr&theme=tokyonight&layout=compact&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[VOTRE_USERNAME_GITHUB]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[VOTRE_USERNAME_GITHUB]&theme=tokyonight&layout=compact&hide_border=true"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=elieduclr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=[VOTRE_USERNAME_GITHUB]&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -92,19 +100,19 @@ Quand je ne code pas, vous me trouverez en train de créer des univers immersifs
 
 ```mermaid
 graph LR
-    A[🔬 Informatique Quantique] --> B[🔐 Post-Quantum Cryptography]
-    C[🎮 Game Development] --> D[🏗️ Minecraft Modding]
-    E[🤖 AI Security] --> F[🛡️ Adversarial ML]
+    A[🔬 [DOMAINE_1]] --> B[🔐 [SPECIALITE_1]]
+    C[🎮 [DOMAINE_2]] --> D[🏗️ [SPECIALITE_2]]
+    E[🤖 [DOMAINE_3]] --> F[🛡️ [SPECIALITE_3]]
     B --> G[🚀 Innovation]
     D --> G
     F --> G
 ```
 
 ### 📚 Focus actuel
-- **Cryptographie post-quantique** et son impact sur la sécurité moderne
-- **Développement de jeux** avec un focus sur l'écosystème Minecraft/Forge
-- **Intelligence artificielle** appliquée à la détection de menaces
-- **Optimisation des performances** pour applications web haute charge
+- **[APPRENTISSAGE_1]** et son impact sur [DOMAINE_APPLICATION]
+- **[APPRENTISSAGE_2]** avec un focus sur [SPECIALISATION]
+- **[APPRENTISSAGE_3]** appliquée à [CONTEXTE_APPLICATION]
+- **[APPRENTISSAGE_4]** pour [OBJECTIF_TECHNIQUE]
 
 ---
 
@@ -112,11 +120,11 @@ graph LR
 
 <div align="center">
 
-| Cybersécurité | Développement | Cloud & DevOps |
+| [DOMAINE_1] | [DOMAINE_2] | [DOMAINE_3] |
 |:---:|:---:|:---:|
-| 🎯 Penetration Testing | ⚡ Performance Optimization | ☁️ Cloud Architecture |
-| 🔐 Ethical Hacking | 🎨 UI/UX Implementation | 🔄 CI/CD Pipelines |
-| 🛡️ Security Auditing | 📱 Responsive Design | 🐳 Containerization |
+| 🎯 [COMPETENCE_1] | ⚡ [COMPETENCE_4] | ☁️ [COMPETENCE_7] |
+| 🔐 [COMPETENCE_2] | 🎨 [COMPETENCE_5] | 🔄 [COMPETENCE_8] |
+| 🛡️ [COMPETENCE_3] | 📱 [COMPETENCE_6] | 🐳 [COMPETENCE_9] |
 
 </div>
 
@@ -126,10 +134,10 @@ graph LR
 
 Je suis toujours ouvert aux **nouvelles opportunités**, aux **projets innovants** et aux **collaborations** qui poussent les limites de la technologie. Que vous ayez besoin d'aide pour :
 
-- 🚀 Développer une application web moderne
-- 🔒 Sécuriser votre infrastructure
-- 🎮 Créer des expériences de jeu uniques
-- 🤖 Intégrer l'IA dans vos solutions
+- 🚀 [SERVICE_1]
+- 🔒 [SERVICE_2]
+- 🎮 [SERVICE_3]
+- 🤖 [SERVICE_4]
 
 N'hésitez pas à me contacter !
 
@@ -137,8 +145,8 @@ N'hésitez pas à me contacter !
 
 ### 📫 Restons connectés
 
-[![Email](https://img.shields.io/badge/📧%20Email-elieducailar@gmail.com-red?style=for-the-badge)](mailto:elieducailar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-elie--dev.vercel.app-blue?style=for-the-badge)](https://elie-dev.vercel.app/)
+[![Email](https://img.shields.io/badge/📧%20Email-[VOTRE_EMAIL]-red?style=for-the-badge)](mailto:[VOTRE_EMAIL])
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-[VOTRE_DOMAINE]-blue?style=for-the-badge)]([LIEN_PORTFOLIO])
 
 ---
 

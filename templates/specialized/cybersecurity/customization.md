@@ -6,14 +6,52 @@ Ce guide vous accompagne étape par étape pour personnaliser le template **Cybe
 
 ## 📋 Table des matières
 
-1. [🎨 Personnalisation visuelle](#-personnalisation-visuelle)
-2. [📝 Contenu à modifier](#-contenu-à-modifier)
-3. [🛠️ Stack technique](#️-stack-technique)
-4. [🎯 Projets](#-projets)
-5. [📊 Statistiques](#-statistiques)
-6. [🎓 Apprentissage](#-apprentissage)
-7. [💼 Expertise](#-expertise)
-8. [🚀 Conseils avancés](#-conseils-avancés)
+1. [🎨 Personnalisation rapide](#-personnalisation-rapide)
+2. [🎨 Personnalisation visuelle](#-personnalisation-visuelle)
+3. [📝 Contenu à modifier](#-contenu-à-modifier)
+4. [🛠️ Stack technique](#️-stack-technique)
+5. [🎯 Projets](#-projets)
+6. [📊 Statistiques](#-statistiques)
+7. [🎓 Apprentissage](#-apprentissage)
+8. [💼 Expertise](#-expertise)
+9. [🚀 Conseils avancés](#-conseils-avancés)
+
+---
+
+## 🎨 Personnalisation rapide
+
+🔧 GUIDE DE PERSONNALISATION RAPIDE :
+
+1. Remplacez tous les [PLACEHOLDERS] par vos informations
+2. Personnalisez les badges selon votre stack technique
+3. Ajustez les couleurs du thème (tokyonight, dark, radical, etc.)
+4. Modifiez le customColorList pour changer les couleurs du header (1-30)
+5. Adaptez les sections selon vos besoins (supprimez/ajoutez des parties)
+
+📝 PLACEHOLDERS À REMPLACER :
+- [VOTRE_NOM] : Votre nom ou pseudo
+- [VOTRE_TITRE] : Ex: "Développeur Full-Stack", "Security Engineer"
+- [VOTRE_SPECIALITE] : Ex: "Cybersécurité", "DevSecOps"
+- [VOTRE_PASSION] : Ex: "Innovation", "Open Source"
+- [VOTRE_HOBBY] : Ex: "Gaming", "CTF", "Hacking"
+- [VOTRE_EMAIL] : Votre adresse email
+- [LIEN_PORTFOLIO] : URL de votre portfolio
+- [VOTRE_USERNAME_GITHUB] : Votre nom d'utilisateur GitHub
+- [DESCRIPTION_PERSONNELLE] : Votre présentation (2-3 phrases)
+- [PHRASE_PERSONNELLE] : Une phrase sur vos loisirs/passions
+- [PROJET_X] : Noms de vos projets
+- [DESCRIPTION_X] : Descriptions de vos projets
+- [TECH_X] : Technologies utilisées
+- [DOMAINE_X] : Vos domaines d'expertise
+- [COMPETENCE_X] : Vos compétences spécifiques
+- [SERVICE_X] : Services que vous proposez
+- [APPRENTISSAGE_X] : Ce que vous apprenez actuellement
+
+🎨 PERSONNALISATION AVANCÉE :
+- Changez les emojis selon vos préférences
+- Modifiez les couleurs des badges sur shields.io
+- Adaptez les sections selon votre profil (ajoutez certifications, formations, etc.)
+- Personnalisez le diagramme Mermaid avec vos domaines d'expertise
 
 ---
 
