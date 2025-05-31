@@ -316,9 +316,9 @@ classDiagram
         +Float unitPrice
     }
     
-    User ||--o{ Order : places
-    Order ||--o{ OrderItem : contains
-    Product ||--o{ OrderItem : referenced
+    User --> Order : places
+    Order --> OrderItem : contains
+    Product --> OrderItem : referenced
 ```
 
 ### 🔄 Diagrammes d'État
@@ -512,7 +512,7 @@ Workflow Git et branches.
 
 #### 🎯 Template - GitFlow Standard
 ```mermaid
-gitgraph
+gitGraph
     commit id: "Initial commit"
     branch develop
     checkout develop
