@@ -1,3 +1,7 @@
+<!-- meta -->
+<meta name="keywords" content="MOT_CLE_1, MOT_CLE_2">
+<meta name="author" content="[VOTRE_NOM]">
+
 # 👋 Salut, moi c'est [VOTRE_NOM] !
 
 <div align="center">
