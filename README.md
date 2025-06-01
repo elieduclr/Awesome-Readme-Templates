@@ -166,7 +166,6 @@ Nous accueillons toutes les contributions ! Consultez notre [guide de contributi
 ### 📋 Checklist pour nouveaux templates
 - [ ] Template fonctionnel (.md)
 - [ ] Exemple complet
-- [ ] Preview image/GIF
 - [ ] Guide de personnalisation
 - [ ] Tests sur différents thèmes GitHub
 
