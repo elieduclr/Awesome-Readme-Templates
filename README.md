@@ -52,8 +52,7 @@ Awesome-Readme-Templates/
 ├── 📂 assets/
 │   ├── 📂 badges/                # Collection de badges
 │   ├── 📂 animations/            # GIFs et animations
-│   ├── 📂 icons/                 # Icônes et SVG
-│   └── 📂 previews/              # Aperçus des templates
+│   └── 📂 icons/                 # Icônes et SVG
 ├── 📂 tools/
 │   ├── 📄 badge-generator.md     # Générateur de badges
 │   ├── 📄 color-palettes.md      # Palettes de couleurs
