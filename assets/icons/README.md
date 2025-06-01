@@ -11,11 +11,6 @@ assets/icons/
 │   ├── tech-emoji.md           # Emojis technologiques
 │   ├── professional-emoji.md   # Emojis professionnels
 │   └── creative-emoji.md       # Emojis créatifs
-├── svg/
-│   ├── tech-stack/             # Icônes technologies
-│   ├── social/                 # Réseaux sociaux
-│   ├── contact/                # Contact & communication
-│   └── decorative/             # Éléments décoratifs
 └── templates/
     ├── icon-sections.md        # Sections prêtes à l'emploi
     └── icon-combinations.md    # Combinaisons d'icônes
